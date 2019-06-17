@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ad41aa2-8368-4239-be66-b6c24f937b95" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/intro/lesson5/learnstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/intro/lesson2/turtledraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/intro/lesson2/turtledraw.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,20 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson/intro/lesson5/learnstring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson/intro/lesson2/turtledraw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="17" lean-forward="true" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
+            <state relative-caret-position="251">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="69" />
             </state>
           </provider>
         </entry>
@@ -122,10 +119,10 @@
         <option value="$PROJECT_DIR$/lesson/intro/lesson1/hello.py" />
         <option value="$PROJECT_DIR$/lesson/intro/lesson1/wordgame.py" />
         <option value="$PROJECT_DIR$/lesson/intro/lesson3/inprocessout.py" />
-        <option value="$PROJECT_DIR$/lesson/intro/lesson2/turtledraw.py" />
         <option value="$PROJECT_DIR$/lesson/intro/lesson4/learnnumber.py" />
         <option value="$PROJECT_DIR$/lesson/intro/temp/temp.py" />
         <option value="$PROJECT_DIR$/lesson/intro/lesson5/learnstring.py" />
+        <option value="$PROJECT_DIR$/lesson/intro/lesson2/turtledraw.py" />
       </list>
     </option>
   </component>
@@ -175,6 +172,13 @@
               <item name="cool-python" type="462c0819:PsiDirectoryNode" />
               <item name="lesson" type="462c0819:PsiDirectoryNode" />
               <item name="intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cool-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cool-python" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="intro" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cool-python" type="b2602c69:ProjectViewProjectNode" />
@@ -402,14 +406,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32819074" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32819074" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32959327" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32959327" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -585,13 +589,6 @@
     <entry file="file://$PROJECT_DIR$/lesson/intro/lesson1/wordgame.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/intro/lesson2/turtledraw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="17" lean-forward="true" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson/intro/temp/temp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
@@ -608,8 +605,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson/intro/lesson5/learnstring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson/intro/lesson2/turtledraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="69" />
         </state>
       </provider>
     </entry>

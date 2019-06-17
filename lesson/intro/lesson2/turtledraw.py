@@ -61,9 +61,9 @@ pen = turtle.Pen()
 #     pen.right(91)
 
 # 作业  画一些酷酷的画
-color = ['red', 'yellow', 'green', 'blue']
-pen.reset()
-for i in range(200):
-    pen.color(color[i % 4])
-    pen.forward(i)
-    pen.right(61)
+# color = ['red', 'yellow', 'green', 'blue']
+# pen.reset()
+# for i in range(200):
+#     pen.color(color[i % 4])
+#     pen.forward(i)
+#     pen.right(61)
